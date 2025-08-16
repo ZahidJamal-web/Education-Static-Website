@@ -4,10 +4,10 @@ Welcome to Educational Website! This is a educational website using HTML, CSS, a
 
 ## Overview
 <br>
-Home 
+Home <<br>
 <img width="1352" height="636" alt="{A1E6A5E2-C938-49CB-BA7E-43D125194E93}" src="https://github.com/user-attachments/assets/e473fdd0-2695-4809-8a7a-42474a23efb4" />
 <br>
-About Us
+<br>About Us<br>
 <img width="1346" height="634" alt="image" src="https://github.com/user-attachments/assets/44a818da-8ce0-4429-b31e-2a10b97e50c3" />
 
 ## Table of Contents
