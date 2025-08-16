@@ -21,7 +21,7 @@ Home
 
 # Installation 
 installation command
-<br/>  git clone <"https://github.com/Techwolf78/Educational-Website">
+<br/>  git clone "https://github.com/https://github.com/ZahidJamal-web/Education-Static-Website"
 
 # Usage
 For Students to learn and grow by having access to wide study materials. 
